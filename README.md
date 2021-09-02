@@ -1,5 +1,3 @@
 # Hunor Rusznak
 
-ACLHack 22
-
-**September 16**
+Worst programmer ever.
